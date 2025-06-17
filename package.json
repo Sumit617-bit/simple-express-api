@@ -10,6 +10,15 @@
   "author": "Sumit Singh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "^4.21.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit617-bit/simple-express-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sumit617-bit/simple-express-api/issues"
+  },
+  "homepage": "https://github.com/Sumit617-bit/simple-express-api#readme"
 }

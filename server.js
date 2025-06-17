@@ -11,12 +11,12 @@ const users = [
 
 // Route: Home Page
 app.get('/', (req, res) => {
-  res.send('Home Page');
+  res.redirect('Home Page');
 });
 
 // Route: About Page
 app.get('/about', (req, res) => {
-  res.send('About Page');
+  res.redirect('About Page');
 });
 
 // Route: Users JSON
